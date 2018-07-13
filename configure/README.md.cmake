@@ -1,6 +1,6 @@
 # OpenPSO - The Particle Swarm Optimization Library
 
-Version 0.0.4 in development.
+Version ${PROJECT_VERSION} in development.
 
 ## Overview
 
